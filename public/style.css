@@ -17,7 +17,7 @@ body {
 }
 
 header {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid rgb(248, 215, 215);
 }
 
 header a {
